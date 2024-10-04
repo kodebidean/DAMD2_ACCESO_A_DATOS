@@ -1,0 +1,17 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Ignorar carpetas de compilación y archivos binarios
+/out
+*.class
+
+# Ignorar configuraciones del entorno IntelliJ IDEA
+/.idea
+
+# Ignorar configuraciones locales de usuario de IntelliJ
+*.iml
