@@ -10,7 +10,7 @@ import java.util.List;
 
 public class U1x03A_ReadFile {
 
-    static String FILE_PATH = "text.txt";
+    static String FILE_PATH = "UD1/text.txt";
 
     public static void main(String[] args) {
         chooseReader();
