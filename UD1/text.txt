@@ -31,3 +31,4 @@ Por ejemplo, un proceso en ejecución puede ser interrumpido y pasar a Listo deb
 Los estados representan el estado actual del proceso, mientras que las interrupciones y suspensiones son eventos que desencadenan transiciones entre esos estados.
 
 Fichero ACTUALIZADO
+Fichero ACTUALIZADO
